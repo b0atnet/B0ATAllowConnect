@@ -1,0 +1,3 @@
+name: B0ATAllowConnect
+main: net.b0at.allowconnect.B0atAllowConnect
+version: 0.1.2
